@@ -1,4 +1,4 @@
-# AI时代的来临
+# 人脸识别的商业化需求
 
 Here's the table of contents:
 
@@ -6,16 +6,14 @@ Here's the table of contents:
 {:toc}
 
 ## 前言
-现在到了不得不学习AI的时刻， 现在的AI水平已经发展到黎明时刻，像冉冉上升的太阳一样，
-已经露出了超厉害的前景。在此刻(2023)世界经济低迷的时刻， AI的爆发各行各业都要面临洗牌，
-人们的生活形态也会产生巨大的变化。
+人脸识别已经是通用的技术，如何商业化实现，才是最重要的价值
 
-## AI的历史
+## 如何解决眼镜问题
 
 
 ---
 
-## AI的现状
+## 如何解决皮肤问题
 
 Here's a list:
 
@@ -27,8 +25,7 @@ And a numbered list:
 1. item 1
 1. item 2
 
-## AI的未来
-
+## 如何周边环境的问题
 > This is a quotation
 
 {% include alert.html text="You can include alert boxes" %}
@@ -37,11 +34,11 @@ And a numbered list:
 
 {% include info.html text="You can include info boxes" %}
 
-## 人类社会现状
+## 如何解决索引问题
 
 ![](/images/logo.png "fast.ai's logo")
 
-## 人类的变革
+## 如何进行防伪
 
 General preformatted text:
 
@@ -57,7 +54,7 @@ print(1+1)
 
     2
 
-## 危机与机遇
+## 结论
 
 | Column 1 | Column 2 |
 |-|-|
