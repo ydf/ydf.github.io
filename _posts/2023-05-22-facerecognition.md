@@ -15,28 +15,14 @@ Here's the table of contents:
 
 ## 如何解决皮肤问题
 
-Here's a list:
-
-- item 1
-- item 2
-
-And a numbered list:
-
-1. item 1
-1. item 2
 
 ## 如何周边环境的问题
-> This is a quotation
-
-{% include alert.html text="You can include alert boxes" %}
-
-...and...
-
-{% include info.html text="You can include info boxes" %}
+待定，目前还没有测试集
 
 ## 如何解决索引问题
 
-![](/images/logo.png "fast.ai's logo")
+本质就是在高维度的空间构建索引，方便查找相似的图像。
+https://github.com/spotify/annoy
 
 ## 如何进行防伪
 
